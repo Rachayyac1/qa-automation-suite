@@ -1,0 +1,1 @@
+# Add regression coverage for checkout
